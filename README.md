@@ -1,8 +1,8 @@
-# 💫 About Me:
-Learning malware development & Linux<br><br>c/py/html&css
+#  about Me:
+learning malware development & Linux<br><br>c/py/html&css
 
 
-## 🌐 Socials:
+## 🌐 socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/828183247853846549) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@malwareo) 
 
 # 💻 Tech Stack:
