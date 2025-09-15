@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning malware development<br><br>c/py/html&css
+Learning malware development & Linux<br><br>c/py/html&css
 
 
 ## 🌐 Socials:
